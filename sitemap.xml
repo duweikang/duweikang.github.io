@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.duweikang.cn/2023/11/23/hommaryos/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.duweikang.cn/projects/index.html</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://blog.duweikang.cn/about/index.html</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.duweikang.cn/2023/11/23/projects/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -91,6 +91,20 @@
   </url>
 
   
+  <url>
+    <loc>https://blog.duweikang.cn/tags/HarmonyOS/</loc>
+    <lastmod>2023-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://blog.duweikang.cn/categories/HarmonyOS/</loc>
+    <lastmod>2023-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

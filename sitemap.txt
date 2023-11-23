@@ -1,10 +1,12 @@
+https://blog.duweikang.cn/2023/11/23/hommaryos/
 https://blog.duweikang.cn/projects/index.html
 https://blog.duweikang.cn/tags/index.html
 https://blog.duweikang.cn/links/index.html
 https://blog.duweikang.cn/about/index.html
-https://blog.duweikang.cn/2023/11/23/projects/
 https://blog.duweikang.cn/categories/index.html
 https://blog.duweikang.cn/2023/11/22/hello-world/
 https://blog.duweikang.cn/404.html
 https://blog.duweikang.cn/flex.html
 https://blog.duweikang.cn/
+https://blog.duweikang.cn/tags/HarmonyOS/
+https://blog.duweikang.cn/categories/HarmonyOS/
