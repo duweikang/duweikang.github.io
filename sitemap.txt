@@ -1,0 +1,10 @@
+http://example.com/tags/index.html
+http://example.com/links/index.html
+http://example.com/about/index.html
+http://example.com/projects/index.html
+http://example.com/2023/11/23/projects/
+http://example.com/categories/index.html
+http://example.com/2023/11/22/hello-world/
+http://example.com/404.html
+http://example.com/flex.html
+http://example.com/
