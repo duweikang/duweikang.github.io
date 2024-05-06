@@ -22,6 +22,9 @@ order: 1
 总的来说，我是一名对于前端技术充满热情、富有创造力和责任心的工程师，期待能够为您的项目贡献我的专业知识和技能。
 
 
-![诗和远方](https://qiniu.img.3000.xin/blog/system/shop-logo.jpg "诗和远方")
+![诗和远方](https://qiniu.img.3000.xin/blog/system/shop-logo.jpg#center "诗和远方")
 
+<!-- <div align="center">
+  <img src=https://qiniu.img.3000.xin/blog/system/shop-logo.jpg width="100%" />
+</div> -->
 

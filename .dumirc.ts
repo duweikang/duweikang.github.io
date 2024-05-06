@@ -3,8 +3,8 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   themeConfig: {
     name: '杜同学',
-    favicons: ['https://bizhi.img.3000.xin/blog/system/logo.png'],
-    logo: 'https://bizhi.img.3000.xin/blog/system/logo.png',
+    favicons: ['https://qiniu.img.3000.xin/blog/system/logo.png'],
+    logo: 'https://qiniu.img.3000.xin/blog/system/logo.png',
     socialLinks: {
       github: 'https://github.com/duweikang',
     },
